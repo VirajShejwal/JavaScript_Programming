@@ -1,0 +1,1 @@
+console.log("Jay Ganesh...");                       //console.log is like printf/SOP
